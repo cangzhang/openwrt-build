@@ -1,6 +1,6 @@
 Forked from https://github.com/riverscn/build-openwrt-firmware
 
-++++++++
++++++++
 
 # Build Openwrt firmware with ease
 Scripts for building openwrt router box firmware.
